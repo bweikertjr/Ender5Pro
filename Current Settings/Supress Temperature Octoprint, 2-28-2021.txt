@@ -1,0 +1,2 @@
+Supress Temperature Octoprint, 2-28-2021 BW
+(Send: (N\d+\s+)?M105)|(Recv:\s+TT::.*$)|(Recv:\s*$)
